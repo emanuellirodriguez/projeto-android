@@ -133,6 +133,7 @@ main > article > h1 {
     font-family: var(--fonte-android);
     font-weight: normal;
     font-size: 1.8em;
+    margin-left: 10px;
     
 }
 main > article > h2{
